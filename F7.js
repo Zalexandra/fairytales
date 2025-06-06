@@ -1,6 +1,71 @@
 document.addEventListener('DOMContentLoaded', () => {
+  // Dark mode functionality
+  const themeToggle = document.getElementById('theme-toggle');
+  const body = document.body;
+
+  // Function to get system theme preference
+  function getSystemTheme() {
+    return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+  }
+
+  // Check for saved theme preference, or use system preference, or default to light
+  let currentTheme = localStorage.getItem('theme');
+  if (!currentTheme) {
+    currentTheme = getSystemTheme();
+    body.removeAttribute('data-manual-theme');
+  } else {
+    body.setAttribute('data-manual-theme', 'true');
+  }
+  body.setAttribute('data-theme', currentTheme);
+
+  // Update button text based on current theme
+  function updateThemeToggleText() {
+    const theme = body.getAttribute('data-theme');
+    const savedTheme = localStorage.getItem('theme');
+
+    if (!savedTheme) {
+      // Using system preference
+      themeToggle.innerHTML = theme === 'dark' ? 'Light Mode' : 'Dark Mode';
+      themeToggle.title = `Currently using system theme (${theme}). Click to override.`;
+    } else {
+      // Using manual override
+      themeToggle.innerHTML = theme === 'dark' ? 'Light Mode' : 'Dark Mode';
+      themeToggle.title = `Currently using ${theme} mode. Click to toggle.`;
+    }
+  }
+
+  // Listen for system theme changes
+  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
+    // Only update if user hasn't manually set a preference
+    if (!localStorage.getItem('theme')) {
+      const newTheme = e.matches ? 'dark' : 'light';
+      body.setAttribute('data-theme', newTheme);
+      body.removeAttribute('data-manual-theme');
+      updateThemeToggleText();
+    }
+  });
+
+  // Initialize button text
+  if (themeToggle) {
+    updateThemeToggleText();
+
+    themeToggle.addEventListener('click', () => {
+      const currentTheme = body.getAttribute('data-theme');
+
+      // Simple toggle: always switch to the opposite theme
+      const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+
+      // Set the new theme
+      body.setAttribute('data-theme', newTheme);
+      body.setAttribute('data-manual-theme', 'true');
+      localStorage.setItem('theme', newTheme);
+
+      updateThemeToggleText();
+    });
+  }
+
   const storiesContainer = document.getElementById('stories-container');
-  
+
   const aboutBtn = document.getElementById('about-btn');
   const aboutModal = document.getElementById('about-modal');
   const aboutModalText = document.getElementById('about-modal-text');
@@ -12,7 +77,7 @@ document.addEventListener('DOMContentLoaded', () => {
     console.error("Error: Could not find HTML element with ID 'stories-container'. Please ensure your HTML file contains <div id='stories-container'>.");
     return;
   }
-  
+
   fetch('FairytalesData.json')
     .then(response => {
       if (!response.ok) {
@@ -21,37 +86,37 @@ document.addEventListener('DOMContentLoaded', () => {
       return response.json();
     })
     .then(allStoriesArrayRaw => {
-     
+
       allStoriesData = allStoriesArrayRaw.map((story, index) => ({
-        ...story, 
-        number: index + 1 
+        ...story,
+        number: index + 1
       }));
 
       const tableOfContentsDiv = document.createElement('div');
       tableOfContentsDiv.id = 'story-table-of-contents';
 
       allStoriesData.forEach(storyData => {
-        const listItem = createStoryListItemHtml(storyData); 
+        const listItem = createStoryListItemHtml(storyData);
         tableOfContentsDiv.appendChild(listItem);
       });
       storiesContainer.prepend(tableOfContentsDiv);
 
       const spanishStoriesLink = document.getElementById('spanish-stories-link');
-      if (spanishStoriesLink && allStoriesData) { 
+      if (spanishStoriesLink && allStoriesData) {
           const firstSpanishStory = allStoriesData.find(story => story.language === 'Spanish');
 
           if (firstSpanishStory) {
-              spanishStoriesLink.href = `#story-toc-${firstSpanishStory.number}`; 
+              spanishStoriesLink.href = `#story-toc-${firstSpanishStory.number}`;
               spanishStoriesLink.style.display = 'inline-block';
           } else {
               spanishStoriesLink.style.display = 'none';
           }
       }
-      
+
       allStoriesData.forEach(storyData => {
-        
+
         const storyWrapper = document.createElement('div');
-        storyWrapper.id = `story-${storyData.number}`; 
+        storyWrapper.id = `story-${storyData.number}`;
         const storyElement = createStoryHtml(storyData);
         storyWrapper.appendChild(storyElement);
 
@@ -80,7 +145,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   function createStoryListItemHtml(story) {
     const listItem = document.createElement('a');
-    listItem.href = `#story-${story.number}`; 
+    listItem.href = `#story-${story.number}`;
     listItem.id = `story-toc-${story.number}`;
     listItem.classList.add('story-list-item');
 
@@ -133,12 +198,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const numberDiv = document.createElement('div');
     numberDiv.classList.add('number');
-    numberDiv.innerHTML = `<h3>${story.number}</h3>`; 
+    numberDiv.innerHTML = `<h3>${story.number}</h3>`;
     storyContentFragment.appendChild(numberDiv);
 
     const storyPairContainer = document.createElement ('div');
     storyPairContainer.classList.add('story-pair-container');
-    
+
     const foreignUnitDiv = document.createElement('div');
     foreignUnitDiv.classList.add('foreign-unit');
 
@@ -188,7 +253,7 @@ document.addEventListener('DOMContentLoaded', () => {
     illustrationDiv.appendChild(illustrationImg);
 
     englishUnitDiv.appendChild(illustrationDiv);
-    
+
     storyPairContainer.appendChild(foreignUnitDiv);
     storyPairContainer.appendChild(englishUnitDiv);
 
