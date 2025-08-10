@@ -651,63 +651,135 @@
   },
   {
     "foreignTitle": "La niña y la tumba",
-    "language": "Spanish", 
-    "foreignText": "<p>Hay un pequeño pueblo muy lejos, al final del mundo. Está cerca de un bosque grande y antiguo. La gente del pueblo vive gracias al bosque. Recogen frutas, hierbas y setas. Son respetuosos con la naturaleza. Nunca toman más de lo que necesitan. No matan sin razón.</p><p>En el pueblo vive una familia: una madre, un padre, una hija pequeña llamada Lua, y el hermano de la madre, que se llama Mauro. Mauro es diferente. Siempre está aburrido. Quiere más en la vida. Quiere acción, logros y poder.</p><p>Trabaja con los otros en el bosque, pero no como ellos. Corta muchas ramas sin razón. Pisa las camas de setas. Tiene mucha energía, pero la usa mal.</p><p>Un día, se queda solo en el bosque. Camina lejos del camino y encuentra a una loba con sus crías. La loba lo ataca para proteger a sus hijos. Mauro mata a la loba.</p><p>Está feliz. Lleva el cuerpo al pueblo como un trofeo. Pero la gente no está contenta. Tienen miedo. Dicen que traerá problemas al pueblo.</p><p>Entierran a la loba fuera del pueblo, cerca de la casa de la familia.</p><p>Después de la muerte de la loba, llega la sequía. No llueve. Nada crece. Los animales del bosque desaparecen. La gente tiene hambre.</p><p>Mauro entra en el bosque al amanecer y regresa con las manos vacías. Día tras día, lo mismo. Pero luego, empieza a regresar con algo: un pájaro, un conejo. La gente depende de él cada vez más.</p><p>Una madrugada, cuando el cielo todavía está oscuro, sale otra vez. Lua lo observa desde la ventana.</p><p>Entonces ve algo extraño. En la tumba de la loba, hay nuevas plantas. Son flores que nadie ha visto antes. Tienen luz propia, de color violeta, y se mueven sin viento.</p><p>Lua sale de la casa y camina hacia las flores. Mira el polen plateado. Lo toca… y en ese momento, se transforma en una gran polilla de plata.</p><p>Vuela en el cielo oscuro y regresa al amanecer. Cada noche, Lua hace lo mismo. Mientras ella vuela, Mauro regresa con las manos vacías.</p><p>Una noche, la madre se despierta. Siente que algo no está bien. Mira la cama de su hija… y no está allí.</p><p>Corre a la ventana. Afuera, ve a Lua. La niña camina hacia la tumba de la loba. Entonces, la madre ve algo increíble: su hija se convierte en una polilla de plata y vuela al cielo.</p><p>La madre no puede moverse. Solo mira. Se queda toda la noche junto a la ventana.</p><p>Cuando el sol empieza a salir, la polilla regresa. Toca el suelo y se convierte otra vez en Lua.</p><p>La madre cierra los ojos, finge que duerme. Observa en silencio cómo su hija entra en la casa, llena de hojas y agujas de pino. Su hija se mete en la cama sin hacer ruido.</p><p>Por la mañana, la madre sale de la casa. Va a la tumba de la loba. Mira las flores violetas… y las arranca una por una.</p><p>Al día siguiente, Lua se despierta y corre afuera. Quiere ver las flores.</p><p>Pero la tierra está vacía. Las flores han desaparecido.</p><p>Ella se pone triste. Mira el suelo seco y duro. Luego toma su agua del día, la poca que tiene, y la vierte sobre la tierra.</p><p>Espera. Pero nada pasa. Las flores no vuelven.</p><p>Esa tarde, Mauro regresa del bosque. Esta vez, trae un ciervo. Todos en el pueblo están felices.</p><p>Él sonríe con orgullo. Dice:</p><p>—Ahora sé dónde se esconden los lobos. La próxima vez traeré lobos.</p><p>La gente guarda silencio. Algunos se miran con miedo. Lua escucha todo desde lejos.</p><p>Esa noche, Lua no duerme en su cama. Camina despacio hasta la tumba de la loba y se acuesta sobre la tierra.</p><p>Su madre la ve desde la ventana. Pero esta vez no tiene miedo. Sabe que Lua ya no puede convertirse en la polilla de plata.</p><p>Lua cierra los ojos. La tierra está fría, pero ella no tiene frío. Solo tristeza.</p><p>El pueblo busca a Lua por muchos días. En el bosque, en las cuevas, en los ríos. Pero no la encuentran.</p><p>Algunos dicen que los lobos la comieron. Pero otros cuentan algo distinto: dicen que vieron a una niña montando sobre el lomo de un lobo enorme, cruzando la cima de la montaña.</p><p>Después, la lluvia regresa. El bosque vuelve a tener vida. Hay frutas, setas y animales otra vez.</p><p>Pero Mauro no cambia. Cada día se aleja más, buscando a los lobos en las montañas.</p><p>Un día, no regresa. Nadie sabe qué pasó.</p><p>La madre no va más al bosque. Se queda en casa. Planta un gran jardín sobre la tumba de la loba.</p><p>Camina entre las flores, buscando una que brille de color violeta por la noche.</p>",
+    "language": "Spanish",
+    "foreignText": "<p>Muy lejos, en el fin del mundo, hay una pequeña aldea. La gente construyó sus chozas y casas cerca de un bosque oscuro y antiguo. El bosque los alimenta y los protege, y ellos, a su vez, lo tratan con gran cuidado y respeto. Nunca toman más de lo que necesitan. Nunca arrancan una planta ni matan un animal sin razón.</p><p>Al final de la aldea vive una familia: una madre, un padre y su pequeña hija llamada Lua. El hermano de la madre, Mauro, también vive con ellos. Mauro no es como la gente de su aldea. Los ancianos dicen que fue maldecido con el aburrimiento y la incapacidad de sentirse satisfecho. Mauro siempre quiere más. Siempre crea ruido y desorden. Quiere acción, logros, atención y poder. Cuando Mauro va con otros al bosque, no trabaja con ellos. En cambio, corta demasiadas ramas, pisotea los lechos de hongos y se desvía del camino, perturbando el bosque.</p><p>Un día, Mauro se adentra demasiado. Se abre paso por el bosque, cortando hojas con su cuchillo. Distraído, al principio no se da cuenta de los lobeznos. Pero al segundo siguiente, la loba madre salta sobre él mientras sus cachorros huyen. Mauro levanta su cuchillo.</p><p>Empapado en sangre, lleva su trofeo de vuelta a la aldea, sonriendo. Por primera vez, se siente satisfecho, pero no dura. La gente arrastra los pies por el suelo. Recogen a la loba muerta, pero no celebran. Dicen que Mauro trajo la desgracia a la aldea. Cavan una tumba para ella no muy lejos de su casa y la entierran allí.</p><p>Después de ese día, llega la sequía. La tierra se desmorona y se dispersa como arena. Las plantas se marchitan y mueren. Los pájaros dejan de piar y los peces son reemplazados por sapos en los ríos que se secan. La gente empieza a acostarse con hambre.</p><p>Mauro no se acuesta en absoluto. Cada noche entra al bosque en busca de caza. Cada mañana regresa con las manos vacías. Sigue buscando caminos ocultos, escondites lejanos, y finalmente logra encontrar algunos conejos y ardillas restantes. Cuando lleva lo que ha cazado a la aldea, nadie dice ya que les trajo la desgracia. Lo miran con gratitud y sonrisas, intentan complacerlo. Él realmente disfruta de la sensación.</p><p>Una noche, mientras el cielo aún está oscuro, sale de nuevo. Lua lo observa desde la ventana. Algo se mueve en el rabillo de sus ojos y ella se vuelve hacia ese lado, y parpadea sin creer lo que ve. Allí, en el montículo de tierra donde enterraron a la loba madre, están floreciendo altas flores moradas. Lua nunca antes había visto tales plantas. Brillan con su propia luz violeta y se mueven sin el viento.</p><p>Lua sale de la casa y camina hacia las flores. Nota el polen plateado que brilla como la luz de la luna. Toca el polen y todo cambia. Lua se transforma en una gran polilla plateada.</p><p>Vuela hacia el cielo oscuro y no regresa hasta el amanecer. Ese día, Mauro vuelve sin ninguna pieza de caza. Se repite cada noche. Mauro sale de caza, y Lua sale de puntillas de su casa y vuela lejos. Y por la mañana, Mauro vuelve sin nada.</p><p>Una noche, un tablón del suelo que cruje despierta a la madre de Lua. Por un momento intenta volver a dormirse, pero luego se da cuenta de que algo anda mal. Echa un vistazo a la cama de Lua y jadea. Está vacía. Su hija no está. Corre hacia la ventana y se queda inmóvil como una estatua. Alas plateadas pálidas revolotean junto a la ventana hacia el cielo. Permanece inmóvil cerca de la ventana toda la noche.</p><p>A la primera luz del alba, la polilla regresa. La madre observa cómo la polilla toca el suelo y vuelve a convertirse en Lua. Regresa a la cama y yace inmóvil con los ojos cerrados. Lua se desliza en su cama sin hacer ruido. La madre abre los ojos y observa las hojas y agujas pegadas en el cabello de Lua.</p><p>Al amanecer, la madre va a la tumba del lobo. Mira las flores moradas por unos segundos y luego las arranca una por una.</p><p>Lua se despierta a la hora del almuerzo y corre hacia las flores con una taza de su porción de agua para el día. Se detiene en los terrones de tierra secos donde solían estar las flores. Se arrodilla y busca las semillas, y luego, al no encontrar ninguna, de todos modos vierte toda su agua.</p><p>A la mañana siguiente, Mauro regresa del bosque con un ciervo. La multitud lo saluda con vítores. \"Encontré dónde se esconden los lobos\", dice. \"Mañana los atraparé.\"</p><p>Los vítores se apagan. La gente se mira y luego mira sus pies. Lua escucha todo desde lejos.</p><p>Esa noche, ella se negó a ir a su cama. En cambio, camina hacia la tumba del lobo y se acuesta en la tierra. Su madre la ve, pero regresa a la cama, confiada en que Lua ya no puede volar.</p><p>Lua cierra los ojos al caer la noche. La tierra está fría, pero la llena de paz. Extiende los brazos y se duerme.</p><p>Por la mañana, Lua no está. La aldea la busca muchos días. Buscan en el bosque, en cuevas y en ríos. Pero no la encuentran.</p><p>Algunos empiezan a decir que los lobos se la debieron de llevar. Pero otros dicen que la vieron montada en la espalda de un lobo enorme cruzando la cima de la montaña.</p><p>Pronto, la lluvia regresa. El bosque vuelve a la vida. Hay hongos, frutas y peces. Así que la gente también vuelve a su vida normal. Solo Mauro no lo hace. Todos los días sigue yendo solo al bosque, cada vez más lejos de la aldea. Está buscando a los lobos en las montañas.</p><p>Un día, no regresa. Nadie sabe qué pasó.</p><p>La madre de Lua tampoco va ya al bosque. Pasa sus días cerca de su casa, cuidando un gran jardín que plantó alrededor de la tumba del lobo. Y por la noche, camina entre las flores, buscando una que vuelva a brillar violeta.</p>",
     "vocabulary": [
-      { "word": "bosque", "translation": "forest" },
-      { "word": "recogen", "translation": "they gather/collect" },
-      { "word": "hierbas", "translation": "herbs" },
-      { "word": "setas", "translation": "mushrooms" },
-      { "word": "respetuosos", "translation": "respectful" },
-      { "word": "logros", "translation": "achievements" },
-      { "word": "poder", "translation": "power" },
-      { "word": "ramas", "translation": "branches" },
-      { "word": "pisa", "translation": "he steps on" },
-      { "word": "crías", "translation": "cubs, offspring" },
-      { "word": "ataca", "translation": "attacks" },
-      { "word": "mata", "translation": "kills" },
-      { "word": "trofeo", "translation": "trophy" },
-      { "word": "miedo", "translation": "fear" },
-      { "word": "entierran", "translation": "they bury" },
-      { "word": "sequía", "translation": "drought" },
-      { "word": "llueve", "translation": "it rains" },
-      { "word": "crece", "translation": "grows" },
-      { "word": "amanecer", "translation": "dawn" },
-      { "word": "manos vacías", "translation": "empty hands" },
-      { "word": "madrugada", "translation": "early morning (pre-dawn)" },
-      { "word": "observa", "translation": "observes" },
-      { "word": "violeta", "translation": "violet (color)" },
-      { "word": "polen plateado", "translation": "silver pollen" },
-      { "word": "polilla de plata", "translation": "silver moth" },
-      { "word": "vuela", "translation": "flies" },
-      { "word": "se despierta", "translation": "wakes up" },
-      { "word": "finge", "translation": "pretends" },
-      { "word": "hojas", "translation": "leaves" },
-      { "word": "agujas de pino", "translation": "pine needles" },
-      { "word": "arranca", "translation": "pulls out, plucks" },
-      { "word": "vacía", "translation": "empty" },
-      { "word": "seco", "translation": "dry" },
-      { "word": "vierte", "translation": "pours" },
-      { "word": "ciervo", "translation": "deer" },
-      { "word": "orgullo", "translation": "pride" },
-      { "word": "esconden", "translation": "hide" },
-      { "word": "guarda silencio", "translation": "remains silent" },
-      { "word": "se acuesta", "translation": "lays down" },
-      { "word": "tristeza", "translation": "sadness" },
-      { "word": "cuevas", "translation": "caves" },
-      { "word": "cuentan", "translation": "tell (a story)" },
-      { "word": "lomo", "translation": "back (of an animal)" },
-      { "word": "enorme", "translation": "enormous" },
-      { "word": "cima", "translation": "summit, peak" },
-      { "word": "lluvia", "translation": "rain" },
-      { "word": "regresa", "translation": "returns" },
-      { "word": "brillara", "translation": "would shine" }
+        {
+            "word": "aldea",
+            "translation": "village"
+        },
+        {
+            "word": "chozas",
+            "translation": "huts"
+        },
+        {
+            "word": "bosque oscuro y antiguo",
+            "translation": "dark and ancient forest"
+        },
+        {
+            "word": "alimenta",
+            "translation": "feeds"
+        },
+        {
+            "word": "protege",
+            "translation": "protects"
+        },
+        {
+            "word": "cuidado",
+            "translation": "care"
+        },
+        {
+            "word": "respeto",
+            "translation": "respect"
+        },
+        {
+            "word": "arrancan",
+            "translation": "pull up, tear out"
+        },
+        {
+            "word": "maldecido",
+            "translation": "cursed"
+        },
+        {
+            "word": "aburrimiento",
+            "translation": "boredom"
+        },
+        {
+            "word": "incapacidad",
+            "translation": "inability"
+        },
+        {
+            "word": "satisfecho",
+            "translation": "satisfied"
+        },
+        {
+            "word": "ruido",
+            "translation": "noise"
+        },
+        {
+            "word": "desorden",
+            "translation": "disorder, mess"
+        },
+        {
+            "word": "logros",
+            "translation": "achievements"
+        },
+        {
+            "word": "pisotea",
+            "translation": "tramples"
+        },
+        {
+            "word": "se desvía",
+            "translation": "strays, deviates"
+        },
+        {
+            "word": "perturbando",
+            "translation": "disturbing"
+        },
+        {
+            "word": "se adentra",
+            "translation": "goes deep into"
+        },
+        {
+            "word": "distraído",
+            "translation": "distracted"
+        },
+        {
+            "word": "lobezno",
+            "translation": "wolf cub"
+        },
+        {
+            "word": "empapado",
+            "translation": "drenched, soaked"
+        },
+        {
+            "word": "trofeo",
+            "translation": "trophy"
+        },
+        {
+            "word": "desgracia",
+            "translation": "misfortune, disgrace"
+        },
+        {
+            "word": "sequía",
+            "translation": "drought"
+        },
+        {
+            "word": "se desmorona",
+            "translation": "crumbles"
+        },
+        {
+            "word": "marchitan",
+            "translation": "wither"
+        },
+        {
+            "word": "sapos",
+            "translation": "toads"
+        },
+        {
+            "word": "escondites",
+            "translation": "hiding places"
+        },
+        {
+            "word": "polen",
+            "translation": "pollen"
+        }
     ],
     "englishTitle": "The Girl and the Tomb",
-    "englishText": "<p>There is a small village far away, at the end of the world. It’s near a large, ancient forest. The people of the village live thanks to the forest. They collect fruits, herbs, and mushrooms. They are respectful of nature. They never take more than they need. They don’t kill without reason.</p><p>In the village lives a family: a mother, a father, a little daughter named Lua, and the mother’s brother, named Mauro. Mauro is different. He is always bored. He wants more from life. He wants action, achievements, and power.</p><p>He works with the others in the forest, but not like them. He cuts many branches without reason. He steps on the mushroom beds. He has a lot of energy, but he uses it badly.</p><p>One day, he is left alone in the forest. He walks far from the path and finds a wolf with her cubs. The wolf attacks him to protect her children. Mauro kills the wolf.</p><p>He is happy. He carries the body to the village as a trophy. But the people are not happy. They are afraid. They say it will bring problems to the village.</p><p>They bury the wolf outside the village, near the family’s house.</p><p>After the wolf’s death, the drought arrives. It doesn’t rain. Nothing grows. The forest animals disappear. The people are hungry.</p><p>Mauro enters the forest at dawn and returns with empty hands. Day after day, the same. But then, he starts to return with something: a bird, a rabbit. The people depend on him more and more.</p><p>One early morning, when the sky is still dark, he goes out again. Lua watches him from the window.</p><p>Then she sees something strange. On the wolf’s grave, there are new plants. They are flowers no one has seen before. They have their own light, violet in color, and move without wind.</p><p>Lua leaves the house and walks towards the flowers. She looks at the silver pollen. She touches it… and at that moment, she transforms into a large silver moth.</p><p>She flies in the dark sky and returns at dawn. Every night, Lua does the same. While she flies, Mauro returns with empty hands.</p><p>One night, the mother wakes up. She feels something isn't right. She looks at her daughter's bed… and she’s not there.</p><p>She runs to the window. Outside, she sees Lua. The girl walks towards the wolf’s grave. Then, the mother sees something incredible: her daughter turns into a silver moth and flies into the sky.</p><p>The mother cannot move. She just watches. She stays all night by the window.</p><p>When the sun begins to rise, the moth returns. It touches the ground and turns back into Lua.</p><p>The mother closes her eyes, pretends to be asleep. She quietly watches her daughter enter the house, covered in leaves and pine needles. Her daughter gets into bed without making a sound.</p><p>In the morning, the mother leaves the house. She goes to the wolf’s grave. She looks at the violet flowers… and pulls them out one by one.</p><p>The next day, Lua wakes up and runs outside. She wants to see the flowers.</p><p>But the earth is empty. The flowers have disappeared.</p><p>She becomes sad. She looks at the dry, hard ground. Then she takes her water for the day, the little she has, and pours it over the earth.</p><p>She waits. But nothing happens. The flowers don’t return.</p><p>That afternoon, Mauro returns from the forest. This time, he brings a deer. Everyone in the village is happy.</p><p>He smiles with pride. He says:</p><p>“Now I know where the wolves hide. Next time I will bring wolves.”</p><p>The people remain silent. Some look at each other with fear. Lua hears everything from afar.</p><p>That night, Lua does not sleep in her bed. She walks slowly to the wolf’s grave and lies down on the earth.</p><p>Her mother sees her from the window. But this time she is not afraid. She knows that Lua can no longer turn into the silver moth.</p><p>Lua closes her eyes. The earth is cold, but she is not cold. Just sad.</p><p>The village searches for Lua for many days. In the forest, in the caves, in the rivers. But they don't find her.</p><p>Some say the wolves ate her. But others tell something different: they say they saw a girl riding on the back of an enormous wolf, crossing the mountaintop.</p><p>Afterward, the rain returns. The forest comes back to life. There are fruits, mushrooms, and animals again.</p><p>But Mauro doesn't change. Each day he goes further, searching for wolves in the mountains.</p><p>One day, he doesn’t return. No one knows what happened.</p><p>The mother no longer goes to the forest. She stays at home. She plants a large garden on the wolf’s grave.</p><p>She walks among the flowers, looking for one that would glow violet at night</p>",
+    "englishText": "<p>Far away, at the end of the world, there's a small village. People built their huts and houses close to a dark, ancient forest. The forest feeds them and protects them, and they, in turn, treat it with great care and respect. They never take more than they need. They never pluck a plant or kill game without a reason.</p><p>There's a family at the end of the village: a mother, a father and their little daughter called Lua. The mother's brother, Mauro, also lives with them. Mauro is not like the people in his village. The elders say he was cursed with boredom and being unable to feel content. Mauro always wants more. He always creates noise and disorder. He wants action, achievement, attention and power. When Mauro goes with others into the forest, he doesn't work alongside them. Instead, he cuts too many branches, and stomps on mushroom beds, and wanders off the path, disturbing the forest.</p><p>One day Mauro wanders too far away. He pushes through the forest, hacking at leaves with his knife. Distracted, he doesn't notice the wolf cubs at first. But the next second the mother wolf jumps at him, as her cubs runs away. Mauro swings his knife up.</p><p>Drenched in blood, he carries his trophy back to the village, grinning. For the first time, he feels content but it doesn't last. People shuffle their feet on the ground. They pick up the killed mother wolf but they don't celebrate. They say Mauro brought misery to the village. They dig a grave for her not far from his house, and bury her there.</p><p>After that day, the drought arrives. The soil crumbles and scatters like sand. Plants wither and die. Birds stop chirping, and fish are replaced by toads in the drying up rivers. People start going to bed hungry.</p><p>Mauro doesn't go to bed at all. Every night he enters the forest in search of game. Every morning he return with empty hands. He keeps looking for hidden paths, for distant hiding places, and eventually he does manage to find some remaining rabbits and squirrels. When he brings what he killed to the village, nobody says anymore that he brought misery to them. They look at him with gratitude and smiles, they try to please him. He really enjoys the feeling.</p><p>One night, while the sky is still dark, he goes out again. Lua watches him from the window. Something moves in the corner of her eye and she turns to that side, and blinks not believing her eyes. There, on the pile of the soil under which they buried the mother wolf, tall purple flowers are blossoming. Lua has never seen such plants before. They glow with their own violet light, and they move without the wind.</p><p>Lua steps outside the house and walks towards the flowers. She notices the silver pollen that shimmers like moonlight. She touches the pollen and everything changes. Lua transforms into a large silver moth.</p><p>She flies towards the dark sky and doesn't return until dawn. That day Mauro comes back without any game. It repeats every night. Mauro leaves for a hunt, and Lua tiptoes out of her house and flies away. And in the morning Mauro comes back with nothing.</p><p>One night, a creaking floor board wakes Lua's mother. For a while she tries to go back to sleep but then realizes that something is wrong. She glances at Lua’s bed and gasps. It’s empty. Her daughter is gone. She rushes towards the window and freezes like a statue. Pale silver wings flutter past the window towards the sky. She stays still near the window all night.</p><p>At the first light of dawn, the moth returns. The mother watches the moth touch the ground and turn back into Lua. She returns to bed and lies motionless with her eyes closed. Lua slips into her bed without making a sound. The mother opens her eyes and watches the leaves and needles stuck in Lua's hair.</p><p>At sunrise, the mother goes to the wolf's grave. She looks at the purple flowers for just a few seconds and then pulls them out one by one.</p><p>Lua wakes up by lunchtime and runs outside to the flowers with a cup of her portion of water for the day. She stops at the dry raw clumps of soil where the flowers used to be. She kneels and looks for the seeds, and then, having found none, pours all her water out anyway.</p><p>The next morning Mauro returns from the forest with a deer. The crowd greets him with cheers. \"I found where the wolves hide,\" he says. \"Tomorrow I'll get them.\"</p><p>The cheering dies down. People look at each other and then watch their feet. Lua hears everything from afar.</p><p>Esa noche, she refused to go to her bed. Instead, she walks to the wolf's grave and lies down on the earth. Her mother sees her but returns back to bed, confident that Lua can't fly anymore.</p><p>Lua closes her eyes as the night falls. The earth is cold but it fills her with peace. She spreads her arms and falls asleep.</p><p>In the morning, Lua is gone. The village searches for her many days. They look in the forest, in caves and in rivers. But they don't find her.</p><p>Some start saying the wolves must have got her. But others say they saw her riding on the back of an enormous wolf crossing the mountaintop.</p><p>Soon, the rain returns. The forest comes back to life. There are mushrooms, and fruit, and fish. So people, also, come back to their usual life. Only Mauro doesn't. Every day he continues to go to the forest alone, further and further away from the village. He's searching for the wolves in the mountains.</p><p>One day, he doesn't return. Nobody knows what happened.</p><p>Lua's mother, also, no longer goes to the forest. She spends her days near her house, tending to a large garden she planted around the wolf's grave. And at night, she walks among the flowers, looking for one that would glow violet again.</p>",
     "illustrationUrl": "FairytalesArt/The_Girl_and_the_Tomb.jpeg",
-    "illustrationAlt": "A girl, Lua, looking at the mystical violet flowers glow, with a forest and village and her uncle in the background."
-  },
+    "illustrationAlt": "A small girl, Lua, kneels in front of a tomb surrounded by a huge garden of bright purple flowers in the middle of a dark forest."
+},
   {
     "foreignTitle": "A la espera del agua",
     "language": "Spanish",
@@ -804,61 +876,96 @@
     "illustrationAlt": "A girl, Anna, looks at her brother and the house floating in the air, with a jungle around them."
   },
   {
-    "foreignTitle": "Donde se esconden las personas",
+    "foreignTitle": "Donde la gente se esconde",
     "language": "Spanish",
-    "foreignText": "<p>Alejandro vivía en un pequeño pueblo junto a la selva. Estaba obsesionado con esconderse. Barriles, sombras, chozas abandonadas, cunetas—ningún otro niño había aprendido a desaparecer tan bien como él.</p><p>Jugaba al escondite de día y de noche. Cuando los demás niños se cansaban del juego, él seguía jugando solo, oculto. Porque para él no era solo un juego.</p><p>Desde que su padre desapareció, Alejandro creía que si lograba esconderse lo bastante bien, si lograba volverse tan invisible como él, tal vez desaparecería del mismo modo. Y entonces tal vez acabarían juntos, en el mismo sitio.</p><p>Nadie le explicaba a dónde se había ido su padre. Los adultos solo lo abrazaban. Los vecinos bajaban la mirada. Mamá lloraba y le cocinaba platos que él nunca comía porque estaba demasiado ocupado escondiéndose.</p><p>Así que Alejandro seguía ocultándose tras cada roca, cada cerca, cada árbol, con la esperanza de encontrar el lugar donde se esconden las personas cuando nadie puede encontrarlas.</p><p>Su búsqueda lo llevó a lo profundo de la selva.</p><p>Se arrastró bajo las raíces de árboles gigantes. Se metió debajo de troncos caídos. La orilla del río estaba húmeda y resbalosa, pero aun así intentó esconderse en ella.</p><p>Fue entonces cuando vio al loro—una criatura roja y brillante, como una flor hecha de plumas. Por un momento, Alejandro se olvidó de su misión y se quedó mirándolo con la boca abierta.</p><p>El loro ladeó la cabeza, y entonces habló.</p><p>—¿Te escondes o estás buscando? —preguntó.</p><p>—Las dos cosas —dijo Alejandro.</p><p>El pájaro asintió con gravedad.</p><p>—Conozco un lugar donde puedes hacer ambas muy bien.</p><p>El corazón de Alejandro dio un salto.</p><p>—Tengo que ir a ese lugar —dijo.</p><p>Y el loro le mostró el camino mientras avanzaban junto al río. El niño le habló del padre.</p><p>—Aquí es —dijo el loro, al cabo de un rato.</p><p>Y allí la vio—una escalera larga y estrecha, dorada, cuyo final se perdía en lo alto del cielo teñido por el atardecer.</p><p>—Puedes subir por esta escalera y buscar a tu padre —dijo el pájaro—. Pero hay un problema. La escalera es muy frágil. No puede soportar el peso de una vida entera—ni siquiera la vida de un niño llena de recuerdos. Para poder subir, tendrás que dejar atrás tus memorias.</p><p>—¿Todas?</p><p>—Puedes conservar la imagen de tu padre —respondió el loro—, pero poco más.</p><p>Entonces Alejandro se sentó al pie de la escalera y empezó a repasar sus recuerdos. Intentó decidir cuáles podía olvidar.</p><p>Primero vinieron los buenos: el día que bajó el río en canoa con su padre, la noche en que toda la familia durmió bajo las estrellas.</p><p>Alejandro negó con la cabeza. Era imposible desprenderse de esos.</p><p>Probó con los recuerdos malos. Quizá esos serían más fáciles. Pero incluso el momento en que su padre se enojó con él… incluso ese… no podía soltarlo.</p><p>Se le llenaron los ojos de lágrimas.</p><p>—No puedo dejar nada —dijo—. No puedo olvidarlos, ni siquiera por él.</p><p>Se limpió la cara con la manga y añadió:</p><p>—Es por él que no puedo olvidarlos.</p><p>El loro no dijo nada. Solo inclinó la cabeza.</p><p>Entonces Alejandro se puso de pie y emprendió el camino de regreso por la selva, de vuelta al pueblo, a su casa, donde su madre cocinaba a la luz de una vela.</p><p>—Debiste de encontrar un buen escondite —dijo ella sin volverse—. Nadie pudo encontrarte para el almuerzo.</p><p>Puso un cuenco frente a él, mirando hacia otro lado.</p><p>—¿Vas a esconderte otra vez después de cenar? —preguntó.</p><p>—No —respondió Alejandro.</p><p>—¿No? —dijo la madre, lanzándole una mirada de reojo—. ¿Y qué quieres hacer entonces?</p><p>Él la miró.</p><p>—Escuchar tus historias sobre papá —dijo.</p>",
+    "foreignText": "<p>Alejandro vivía en un pueblo pequeño junto a la selva. Estaba obsesionado con esconderse. Se escondía en barriles, en las sombras, en cabañas abandonadas, en zanjas. Ningún otro niño había aprendido a desaparecer tan bien.</p><p>Jugaba al escondite día y noche. Cuando los otros niños se cansaban, él seguía jugando solo. Porque para él no era solo un juego.</p><p>Desde que su padre había desaparecido, Alejandro había estado tratando de encontrar ese escondite perfecto. Creía que si lograba encontrarlo, podría ser el lugar donde su papá se había escondido y así terminarían escondidos en ese lugar, juntos.</p><p>Nadie le explicó a dónde se había ido su padre. Los adultos simplemente lo abrazaban. Los vecinos bajaban la mirada. Mamá lloraba y cocinaba platos que él nunca comía porque estaba demasiado ocupado escondiéndose.</p><p>Así que Alejandro seguía escondiéndose detrás de cada roca, cada valla, cada árbol, esperando encontrar el lugar donde la gente se esconde cuando nadie puede encontrarla.</p><p>Su búsqueda lo llevó a lo más profundo de la selva.</p><p>Se arrastró bajo las raíces de árboles gigantes. Se metió debajo de troncos caídos. La orilla del río estaba húmeda y resbaladiza, pero aun así intentó esconderse en ella.</p><p>Fue entonces cuando vio el loro, una criatura tan brillante que parecía una flor hecha de plumas. Por un momento, Alejandro olvidó su misión y lo miró con la boca abierta.</p><p>El loro ladeó la cabeza y luego habló.</p><p>“¿Qué estás haciendo?” preguntó.</p><p>“Estoy buscando el mejor escondite”, dijo Alejandro.</p><p>El pájaro asintió con seriedad.</p><p>“Conozco un lugar donde puedes esconderte muy bien”.</p><p>El corazón de Alejandro dio un vuelco.</p><p>“Tengo que ir a ese lugar”, dijo.</p><p>Así que el loro voló por el río mientras el niño lo seguía, contándole historias sobre su papá.</p><p>De repente, el loro aterrizó en una hoja que rebotaba y dijo: “Es aquí”.</p><p>Alejandro levantó la vista y fue entonces cuando lo vio. Una escalera larga, estrecha y dorada llegaba hasta las nubes del atardecer.</p><p>“Puedes subir esta escalera y buscar a tu papá”, dijo el pájaro. “Pero hay un problema. La escalera es muy frágil. No puede soportar el peso de una vida entera, ni siquiera la vida de un niño si es una vida llena de recuerdos. Para poder subirla, tendrás que dejar tus recuerdos atrás”.</p><p>“¿Todos ellos?”</p><p>“Puedes quedarte con la imagen de tu papá para poder encontrarlo”, respondió el loro, “pero poco más”.</p><p>Entonces Alejandro se sentó al pie de la escalera y comenzó a repasar sus recuerdos. Trató de decidir cuáles podía olvidar.</p><p>Primero vinieron los buenos: el día que bajó el río en canoa con su papá, la noche que toda la familia durmió bajo las estrellas.</p><p>Alejandro negó con la cabeza. Era imposible soltarlos.</p><p>Probó con los recuerdos malos. Tal vez esos serían más fáciles. Pero incluso el momento en que su papá se enojó con él... incluso eso... no pudo dejarlo ir.</p><p>Sus ojos se llenaron de lágrimas.</p><p>“No puedo dejar nada atrás”, dijo. “Ni siquiera por él”.</p><p>Se secó la cara con la manga y añadió:</p><p>“Es por él que no quiero olvidar”.</p><p>El loro suspiró y batió sus alas una vez. Ya no había nada más que decir o hacer.</p><p>Así que Alejandro se levantó y emprendió el camino de regreso por la selva a lo largo del río, de regreso a través de las raíces y los troncos, de regreso al pueblo, a su casa, donde su madre cocinaba a la luz de las velas.</p><p>“Debes haber encontrado un buen escondite”, dijo ella sin darse la vuelta. “Nadie pudo encontrarte para el almuerzo”.</p><p>Ella le puso un plato delante, mirando hacia otro lado.</p><p>“¿Vas a esconderte otra vez después de la cena?” preguntó.</p><p>“No”, respondió Alejandro.</p><p>“¿No?” dijo la madre, mirándolo de reojo. “¿Y qué quieres hacer entonces?”</p><p>Él la miró.</p><p>“Quiero escuchar tus recuerdos sobre papá”, dijo.</p>",
     "vocabulary": [
-      { "word": "barriles", "translation": "barrels" },
-      { "word": "sombras", "translation": "shadows" },
-      { "word": "chozas abandonadas", "translation": "abandoned huts" },
-      { "word": "cunetas", "translation": "ditches" },
-      { "word": "oculto", "translation": "hidden" },
-      { "word": "abrazaban", "translation": "they hugged" },
-      { "word": "bajaban la mirada", "translation": "looked down" },
-      { "word": "roca", "translation": "rock" },
-      { "word": "cerca", "translation": "fence" },
-      { "word": "árbol", "translation": "tree" },
-      { "word": "profundo", "translation": "deep" },
-      { "word": "se arrastró", "translation": "crawled" },
-      { "word": "troncos caídos", "translation": "fallen logs" },
-      { "word": "orilla", "translation": "shore" },
-      { "word": "húmeda", "translation": "wet" },
-      { "word": "resbalosa", "translation": "slippery" },
-      { "word": "loro", "translation": "parrot" },
-      { "word": "criatura", "translation": "creature" },
-      { "word": "plumas", "translation": "feathers" },
-      { "word": "ladeó", "translation": "tilted" },
-      { "word": "asintió", "translation": "nodded" },
-      { "word": "gravedad", "translation": "seriousness" },
-      { "word": "escalera", "translation": "staircase, ladder" },
-      { "word": "estrecha", "translation": "narrow" },
-      { "word": "dorada", "translation": "golden" },
-      { "word": "final", "translation": "end" },
-      { "word": "cielo", "translation": "sky" },
-      { "word": "teñido", "translation": "tinted" },
-      { "word": "atardecer", "translation": "sunset" },
-      { "word": "frágil", "translation": "fragile" },
-      { "word": "peso", "translation": "weight" },
-      { "word": "conservar", "translation": "to keep" },
-      { "word": "repasar", "translation": "to review" },
-      { "word": "olvidar", "translation": "to forget" },
-      { "word": "desprenderse", "translation": "to let go of" },
-      { "word": "enojó", "translation": "got angry" },
-      { "word": "soltarlo", "translation": "to let it go" },
-      { "word": "lágrimas", "translation": "tears" },
-      { "word": "manga", "translation": "sleeve" },
-      { "word": "inclinó", "translation": "tilted" },
-      { "word": "emprendió", "translation": "began, started" },
-      { "word": "vela", "translation": "candle" },
-      { "word": "almuerzo", "translation": "lunch" },
-      { "word": "cuenco", "translation": "bowl" },
-      { "word": "de reojo", "translation": "sideways" }
+        {
+            "word": "barriles",
+            "translation": "barrels"
+        },
+        {
+            "word": "sombras",
+            "translation": "shadows"
+        },
+        {
+            "word": "cabañas abandonadas",
+            "translation": "abandoned huts"
+        },
+        {
+            "word": "zanjas",
+            "translation": "ditches"
+        },
+        {
+            "word": "escondite",
+            "translation": "hiding place"
+        },
+        {
+            "word": "desapareció",
+            "translation": "disappeared"
+        },
+        {
+            "word": "abrazaban",
+            "translation": "hugged"
+        },
+        {
+            "word": "lágrimas",
+            "translation": "tears"
+        },
+        {
+            "word": "roca",
+            "translation": "rock"
+        },
+        {
+            "word": "valla",
+            "translation": "fence"
+        },
+        {
+            "word": "selva",
+            "translation": "jungle"
+        },
+        {
+            "word": "raíces",
+            "translation": "roots"
+        },
+        {
+            "word": "troncos",
+            "translation": "logs"
+        },
+        {
+            "word": "resbaladiza",
+            "translation": "slippery"
+        },
+        {
+            "word": "loro",
+            "translation": "parrot"
+        },
+        {
+            "word": "plumas",
+            "translation": "feathers"
+        },
+        {
+            "word": "escalera",
+            "translation": "ladder"
+        },
+        {
+            "word": "nubes",
+            "translation": "clouds"
+        },
+        {
+            "word": "recuerdos",
+            "translation": "memories"
+        },
+        {
+            "word": "luz de las velas",
+            "translation": "candlelight"
+        }
     ],
     "englishTitle": "Where People Hide",
-    "englishText": "<p>Alejandro lived in a small town next to the jungle. He was obsessed with hiding. Barrels, shadows, abandoned huts, ditches—no other child had learned to disappear as well as him.</p><p>He played hide-and-seek day and night. When the other children got tired of the game, he kept playing alone, hidden. Because for him it wasn't just a game.</p><p>Since his father disappeared, Alejandro believed that if he managed to hide well enough, if he managed to become as invisible as him, perhaps he would disappear in the same way. And then perhaps they would end up together, in the same place.</p><p>No one explained to him where his father had gone. The adults just hugged him. The neighbors looked down. Mom cried and cooked dishes that he never ate because he was too busy hiding.</p><p>So Alejandro kept hiding behind every rock, every fence, every tree, hoping to find the place where people hide when no one can find them.</p><p>His search took him deep into the jungle.</p><p>He crawled under the roots of giant trees. He got under fallen logs. The riverbank was wet and slippery, but he still tried to hide in it.</p><p>It was then that he saw the parrot—a red and bright creature, like a flower made of feathers. For a moment, Alejandro forgot his mission and stared at it with his mouth open.</p><p>The parrot tilted its head, and then spoke.</p><p>“Are you hiding or looking?” it asked.</p><p>“Both,” said Alejandro.</p><p>The bird nodded seriously.</p><p>“I know a place where you can do both very well.”</p><p>Alejandro's heart skipped a beat.</p><p>“I have to go to that place,” he said.</p><p>And the parrot showed him the way as they walked along the river. The boy told him about his father.</p><p>“This is it,” said the parrot, after a while.</p><p>And there he saw it—a long, narrow, golden ladder, whose end was lost in the heights of the sky tinted by the sunset.</p><p>“You can climb this ladder and look for your father,” said the bird. “But there is a problem. The ladder is very fragile. It cannot bear the weight of a whole life—not even the life of a child full of memories. To be able to climb, you will have to leave your memories behind.”</p><p>“All of them?”</p><p>“You can keep the image of your father,” replied the parrot, “but little else.”</p><p>Then Alejandro sat at the foot of the ladder and began to review his memories. He tried to decide which ones he could forget.</p><p>First came the good ones: the day he went down the river in a canoe with his father, the night the whole family slept under the stars.</p><p>Alejandro shook his head. It was impossible to let go of those.</p><p>He tried with the bad memories. Maybe those would be easier. But even the moment when his father got angry with him… even that… he couldn't let it go.</p><p>His eyes filled with tears.</p><p>“I can't leave anything,” he said. “I can't forget them, not even for him.”</p><p>He wiped his face with his sleeve and added:</p><p>“It's because of him that I can't forget them.”</p><p>The parrot said nothing. He just tilted his head.</p><p>Then Alejandro stood up and set off back through the jungle, back to the town, to his house, where his mother was cooking by candlelight.</p><p>“You must have found a good hiding place,” she said without turning around. “No one could find you for lunch.”</p><p>She put a bowl in front of him, looking away.</p><p>“Are you going to hide again after dinner?” she asked.</p><p>“No,” replied Alejandro.</p><p>“No?” said the mother, glancing at him sideways. “And what do you want to do then?”</p><p>He looked at her.</p><p>“Listen to your stories about Dad,” he said.</p>",
+    "englishText": "<p>Alejandro lived in a small town next to the jungle. He was obsessed with hiding. He hid in barrels, shadows, abandoned huts, ditches. No other child had learned to disappear so well.</p><p>He played hide-and-seek day and night. When the other children got tired of the game, he kept playing on his own. Because for him it wasn't just a game.</p><p>Since his dad disappeared, Alejandro had been trying to find that perfect hiding place. He believed that if he managed to find the place, it might be the one his dad had been hiding in, and so they would end up hiding in that place, together.</p><p>No one explained to him where his dad had gone. The adults just hugged him. The neighbors looked down. Mom cried and cooked dishes that he never ate because he was too busy hiding.</p><p>So Alejandro kept hiding behind every rock, every fence, every tree, hoping to find the place where people hide when no one can find them.</p><p>His search took him deep into the jungle.</p><p>He crawled under the roots of giant trees. He got under fallen logs. The riverbank was wet and slippery, but he still tried to hide in it.</p><p>It was then that he saw the parrot, a creature so bright it looked like a flower made of feathers. For a moment, Alejandro forgot his mission and stared at it with his mouth open.</p><p>The parrot tilted its head, and then spoke.</p><p>“What are you doing?” it asked.</p><p>“I’m looking for the best hiding place,” said Alejandro.</p><p>The bird nodded seriously.</p><p>“I know a place where you can hide very well.”</p><p>Alejandro's heart skipped a beat.</p><p>“I have to go to that place,” he said.</p><p>So the parrot flew along the river as the boy followed, telling stories about his dad.</p><p>Suddenly, the parrot landed on a bouncing leaf and said: “This is it.”</p><p>Alejandro looked up and that’s when he saw it. A long, narrow, golden ladder reached all the way up to the sunset clouds.</p><p>“You can climb this ladder and look for your dad,” said the bird. “But there is a problem. The ladder is very fragile. It cannot bear the weight of a whole life, not even the life of a child if this is a life full of memories. To be able to climb it, you will have to leave your memories behind.”</p><p>“All of them?”</p><p>“You can keep the image of your dad so you can find him,” replied the parrot, “but little else.”</p><p>Then Alejandro sat at the foot of the ladder and began to review his memories. He tried to decide which ones he could forget.</p><p>First came the good ones: the day he went down the river in a canoe with his dad, the night the whole family slept under the stars.</p><p>Alejandro shook his head. It was impossible to let go of those.</p><p>He tried with the bad memories. Maybe those would be easier. But even the moment when his dad got angry with him… even that… he couldn't let it go.</p><p>His eyes filled with tears.</p><p>“I can't leave anything behind,” he said. “Not even for him.”</p><p>He wiped his face with his sleeve and added:</p><p>“It's because of him that I don’t want to forget.”</p><p>The parrot sighed and clapped its wings once. There was nothing to say or do anymore.</p><p>So Alejandro stood up and set off back through the jungle along the river, back through the roots and logs, back to the town, to his house, where his mother was cooking by candlelight.</p><p>“You must have found a good hiding place,” she said without turning around. “No one could find you for lunch.”</p><p>She put a bowl in front of him, looking away.</p><p>“Are you going to hide again after dinner?” she asked.</p><p>“No,” replied Alejandro.</p><p>“No?” said the mother, glancing at him sideways. “And what do you want to do then?”</p><p>He looked at her.</p><p>“I want to listen to your memories about Dad,” he said.</p>",
     "illustrationUrl": "FairytalesArt/Where_People_Hide.jpeg",
     "illustrationAlt": "A boy, Alejandro, looking at the large colorful parrot in the middle of the jungle with a golden staircase, stretches into the sky in the background."
-  },
+},
   {
     "foreignTitle": "Las casas de Alba",
     "language": "Spanish",
